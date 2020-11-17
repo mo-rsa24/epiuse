@@ -1,5 +1,5 @@
 # epiuse
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/mo-rsa24/epiuse?color=green&style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mo-rsa24/epiuse?color=cyan&logo=github&style=plastic)
 Epiuse employee management system
 ## Installation
 > Ensure that you have python3 installed
