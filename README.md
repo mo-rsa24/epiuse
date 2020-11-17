@@ -15,6 +15,12 @@ Epiuse employee management system
 
  `python3 -m pip install -r requirements.txt`
  
+## Preparing The Database
+> Find a folder that has the file 'manage.py'
+
+`python manage.py makemigrations`
+`python manage.py migrate`
+ 
  
 ## Running The Application
 `source venv/bin/activate`
