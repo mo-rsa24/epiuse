@@ -1,5 +1,5 @@
 # epiuse
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/mo-rsa24/epiuse?color=lime&logo=django&logoColor=green&style=plastic)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mo-rsa24/epiuse?color=blue&logo=django&logoColor=blue&style=plastic)
 
 
 Epiuse employee management system
