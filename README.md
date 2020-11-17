@@ -11,6 +11,8 @@ Epiuse employee management system
 
 `$ source venv/bin/activate`
 
+`$ cd epiuse`
+
 `$ pip install -r requirements.txt`
  
 > If pip does not work try this
@@ -28,8 +30,6 @@ Epiuse employee management system
 ## Running The Application
 
 > Go the folder that has the "manage.py" file
-
-`$ cd epiuse`
 
 `$ python3 manage.py runserver`
 
