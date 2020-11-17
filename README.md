@@ -9,6 +9,8 @@ Epiuse employee management system
 
 `$ virtualenv -p=/usr/bin/python3.8 venv`
 
+`$ source venv/bin/activate`
+
 `$ pip install -r requirements.txt`
  
 > If pip does not work try this
@@ -24,7 +26,6 @@ Epiuse employee management system
   
  
 ## Running The Application
-`source venv/bin/activate`
 
 > Go the folder that has the "manage.py" file
 
