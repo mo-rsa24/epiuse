@@ -19,6 +19,7 @@ Epiuse employee management system
 > Find a folder that has the file 'manage.py'
 
 `python manage.py makemigrations`
+
 `python manage.py migrate`
  
  
