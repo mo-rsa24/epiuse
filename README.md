@@ -3,6 +3,8 @@
 
 
 Epiuse employee management system
+## Video
+> You Can Watch The Video Above
 ## Installation
 > Ensure that you have python3 installed
 
